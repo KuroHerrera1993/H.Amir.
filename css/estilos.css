@@ -1,0 +1,23 @@
+body {
+    background-color: dimgray;
+    background-image: url("https://midu.dev/images/wallpapers/una-taza-de-javascript.png");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.perfil{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+/*.perfil div{
+    height: 150px;
+    margin: 10px;
+}*/
+
+img{
+    height: 150px;
+    border-radius: 100px;
+    border: 5px solid rgb(92, 35, 224)
+    
+}
